@@ -111,7 +111,7 @@ zyatan 4
 
 ---
 
-## Observações
+## Desafio
 
 - O Mapper faz normalização do texto e remove stopwords.
 - O Reducer calcula todas as métricas globais no final usando o método `cleanup()`.
